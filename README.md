@@ -5,7 +5,7 @@
 * HTML
 * CSS
 * JavaScript
-* Web Api
+* Created two Web Api's as json objects hosted on github repository
 
 ###### The Clients can:
 * See the images from the Fitness Club
