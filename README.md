@@ -5,6 +5,7 @@
 * HTML
 * CSS
 * JavaScript
+* Webpack
 * Created two Web Api's as json objects hosted on github repository
 
 ###### The Clients can:
